@@ -1,4 +1,4 @@
-\## 프로그래머스 SQL
+\## Day1
 
 \- 문제: Level 1-1 (https://school.programmers.co.kr/learn/courses/30/lessons/164673)
 
