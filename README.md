@@ -8,3 +8,9 @@
 
 \- 작성 쿼리: day1\_select.sql
 
+
+
+\- 문제: \[프로그래머스 SQL #2](https://school.programmers.co.kr/learn/courses/30/lessons/133025)
+
+\- 작성 쿼리: day1\_select(2).sql
+
