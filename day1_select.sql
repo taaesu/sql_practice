@@ -1,3 +1,4 @@
+
 SELECT
  b.TITLE,
  b.BOARD_ID,
