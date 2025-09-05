@@ -1,14 +1,14 @@
 \## Day1
 
-\- 문제: Level 1-1 (https://school.programmers.co.kr/learn/courses/30/lessons/164673)
+\- 문제: Level 1 (https://school.programmers.co.kr/learn/courses/30/lessons/164673)
 
 \- 작성 쿼리: day1\_select(1).sql
 
-\- 문제: Level 1-2 (https://school.programmers.co.kr/learn/courses/30/lessons/133025)
+\- 문제: Level 1 (https://school.programmers.co.kr/learn/courses/30/lessons/133025)
 
 \- 작성 쿼리: day1\_select(2).sql
 
-\- 문제: Level 1-3 (https://school.programmers.co.kr/learn/courses/30/lessons/132203)
+\- 문제: Level 1 (https://school.programmers.co.kr/learn/courses/30/lessons/132203)
 
 \- 작성 쿼리: day1\_select(3).sql
 
