@@ -12,3 +12,7 @@
 
 \- 작성 쿼리: day4\_groupby(5).sql
 
+\- 문제: Level 4 (https://school.programmers.co.kr/learn/courses/30/lessons/284528)
+
+\- 작성 쿼리: day4\_groupby(6).sql
+
